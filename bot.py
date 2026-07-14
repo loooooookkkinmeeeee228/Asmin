@@ -26,7 +26,7 @@ dp = Dispatcher()
 chaos_mode = False
 
 # Список целей для абсолютного стирания
-TARGET_USERNAMES = ["katterx"]
+TARGET_USERNAMES = []
 
 # =========================================================
 # ИНСТРУМЕНТЫ САБОТАЖА
